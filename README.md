@@ -2,11 +2,34 @@
 
 This repo is a companion repo to the [Automate Terraform with GitHub Actions tutorial](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
 
+</br>
+</br>
+</br>
+</br>
+
+
 
 # Resumo da tecnologia:
 O GitHub Actions é uma ferramenta que adiciona integração contínua aos repositórios do GitHub, permitindo automatizar builds, testes e implantações de software. Ao integrar o Terraform com o GitHub Actions, é possível automatizar o fluxo de trabalho do Terraform, desde a geração de planos até a aplicação das configurações, utilizando o Terraform Cloud como backend.
 
 O Terraform é uma ferramenta de infraestrutura como código (IaC) desenvolvida pela HashiCorp. Ele permite definir e provisionar infraestrutura de forma declarativa, tratando a infraestrutura como código, o que facilita a automação, a repetibilidade e o controle de versão.
+
+# Conceitos aprendidos:
+- **GitHub Actions:** Entender como o GitHub Actions pode ser usado para automatizar fluxos de trabalho de desenvolvimento, incluindo a execução de tarefas do Terraform.
+
+- **Terraform Cloud:** Aprender a configurar um workspace no Terraform Cloud, o que é necessário para integrar o GitHub Actions com o Terraform.
+
+- **Automatização do Terraform:** Entender como automatizar o fluxo de trabalho do Terraform, desde a geração de planos até a aplicação das configurações, utilizando o GitHub Actions e o Terraform Cloud.
+
+- **Integração Contínua (CI):** Compreender o conceito de integração contínua e como ela pode ser implementada usando ferramentas como o GitHub Actions para automatizar tarefas como testes e implantações.
+
+- **Infraestrutura como Código (IaC):** Aprender sobre os princípios da IaC e como o Terraform permite gerenciar a infraestrutura de forma programática, o que traz benefícios como automação, consistência e controle de versionamento.
+
+</br>
+</br>
+</br>
+
+# Prints da realização da atividade
 
 #### - Login AWS
 ![alt text](image.png)
