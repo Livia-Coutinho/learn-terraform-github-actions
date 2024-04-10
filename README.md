@@ -1,13 +1,9 @@
-# Automate Terraform with GitHub Actions
+# Programação - Semana 10 
+## Relatório: Automação do Terraform com GitHub Actions
 
-This repo is a companion repo to the [Automate Terraform with GitHub Actions tutorial](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
+### Aluna: Livia Coutinho
 
 </br>
-</br>
-</br>
-</br>
-
-
 
 # Resumo da tecnologia:
 O GitHub Actions é uma ferramenta que adiciona integração contínua aos repositórios do GitHub, permitindo automatizar builds, testes e implantações de software. Ao integrar o Terraform com o GitHub Actions, é possível automatizar o fluxo de trabalho do Terraform, desde a geração de planos até a aplicação das configurações, utilizando o Terraform Cloud como backend.
