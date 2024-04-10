@@ -75,3 +75,19 @@ O Terraform é uma ferramenta de infraestrutura como código (IaC) desenvolvida 
 #### Trocar região no arquivo main.tf
 ![alt text](image-15.png)
 ![alt text](image-16.png)
+
+#### - git checkout -b 'update-tfc-org'
+![alt text](image-17.png)
+
+#### - git add .github/workflows
+![alt text](image-18.png)
+
+#### - git commit -m 'Use our Terraform Cloud organization'
+![alt text](image-19.png)
+![alt text](image-21.png)
+
+#### - git push origin update-tfc-org
+![alt text](image-20.png)
+
+#### - Pull requests
+![alt text](image-22.png)
