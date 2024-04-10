@@ -91,3 +91,5 @@ O Terraform é uma ferramenta de infraestrutura como código (IaC) desenvolvida 
 
 #### - Pull requests
 ![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
