@@ -62,3 +62,5 @@ This repo is a companion repo to the [Automate Terraform with GitHub Actions tut
 
 #### - Pull requests
 ![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
